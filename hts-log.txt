@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 Dec 2021 10:36:38 at https://shivatoken.club/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shivatoken.club/ -O1 "C:\Users\OrionPower\Desktop\shiva token\https___shivatoken.club_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:37:05	Error: 	"Method Not Allowed" (405) at link https://shivatoken.club/xmlrpc.php (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbedHFHGPezSQ.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnedHFHGPezSQ.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfedHFHGPc.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z11lE92JQEl8qw.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1JlE92JQEl8qw.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlE92JQEk.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z11lE92JQEl8qw.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlE92JQEl8qw.woff (from https://shivatoken.club/)
+10:37:49	Error: 	"Not Found" (404) at link https://shivatoken.club/home/gochimed/shivatoken.club/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlE92JQEk.woff (from https://shivatoken.club/)
+10:37:54	Error: 	"Not Found" (404) at link https://shivatoken.club/wp-content/themes/icos/assets/css/owl.video.play.png (from https://shivatoken.club/wp-content/themes/icos/assets/css/vendor.bundle.css?ver=5.8.2)
+10:37:54	Error: 	"Not Found" (404) at link https://shivatoken.club/GET (from https://shivatoken.club/wp-content/themes/icos/assets/js/vendor/particles.min.js?ver=5.8.2)
+10:37:54	Error: 	"Not Found" (404) at link https://shivatoken.club/Error pJS - No image.src (from https://shivatoken.club/wp-content/themes/icos/assets/js/vendor/particles.min.js?ver=5.8.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 207 links scanned, 193 files written (12096966 bytes overall) [8133813 bytes received at 107023 bytes/sec], 6891637 bytes transferred using HTTP compression in 96 files, ratio 36%, 34.5 requests per connection
+(13 errors, 0 warnings, 0 messages)
